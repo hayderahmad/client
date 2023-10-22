@@ -1,5 +1,5 @@
 import React from 'react';
-import {UseTitle} from './TitleContext';
+import {UseTitle} from './InfoContext';
 import axios from 'axios';
 
 export default () => {
